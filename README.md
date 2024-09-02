@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
