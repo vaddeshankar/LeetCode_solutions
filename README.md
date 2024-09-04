@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0792-binary-search) |
 | [1848-sum-of-unique-elements](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [1848-sum-of-unique-elements](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vaddeshankar/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
